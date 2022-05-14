@@ -15,7 +15,7 @@
   - 2.4 run python setup.py install. 
   
 - 3.Try to run following code:
--   from sklearn.ensemble import RandomForestClassifier
--   model = RandomForestClassifier(criterion='WIGR_mode',WIGR_power= 1)
+  - 3.1  from sklearn.ensemble import RandomForestClassifier
+  - 3.2  model = RandomForestClassifier(criterion='WIGR_mode',WIGR_power= 1)
 
 *For any questionS please contact me at Mr.Marudi@gmail.com*
