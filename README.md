@@ -16,5 +16,6 @@
   
 - 3.Try to run following code:
 -   from sklearn.ensemble import RandomForestClassifier
-    model = RandomForestClassifier(criterion='WIGR_mode',WIGR_power= 1)
+-   model = RandomForestClassifier(criterion='WIGR_mode',WIGR_power= 1)
+
 *For any questionS please contact me at Mr.Marudi@gmail.com*
